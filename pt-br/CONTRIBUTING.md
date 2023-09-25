@@ -204,7 +204,7 @@ Que resulta na seguinte tabela:
 
 ## Contribuição Avançada com a Docsify
 
-Tudo o que foi mostrado até o momento pode ser [editado diretamente via GitHub](#editando-arquivos-diretamente-no-github), porém fica difícil prever como irão ficar alguns recursos mais avançados, como as imagens ou as abas, que só podem ser visualizadas mesmo quando já submetidas para a Wiki. Para essas e outras contribuções mais avançadas, como mecher na estrutura de navegação, sugerimos o teste do conteúdo em sua máquina local, o que vai requerer alguns conhecimentos extras. 
+Tudo o que foi mostrado até o momento pode ser [editado diretamente via GitHub](#editando-arquivos-diretamente-no-github), porém fica difícil prever como irão ficar alguns recursos mais avançados, como as imagens ou as abas, que só podem ser visualizadas mesmo quando já submetidas para a Wiki. Para essas e outras contribuções mais avançadas, como mexer na estrutura de navegação, sugerimos o teste do conteúdo em sua máquina local, o que vai requerer alguns conhecimentos extras. 
 
 ### Preparando o ambiente
 
